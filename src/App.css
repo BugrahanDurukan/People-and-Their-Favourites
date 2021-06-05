@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+table{
+  margin: auto;
+  border-collapse: collapse;
+}
+
+td{
+  border: 1px solid black;
+  padding: 10px;
+}
+
+th{
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#uImg{
+  height: 50px;
+}
+
+#favImg{
+  height: 25px;
+}
+
+button{
+  color: white;
+  background-color: red;
+  border: 1px solid  brown;
+}
